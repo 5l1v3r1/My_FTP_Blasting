@@ -19,6 +19,17 @@ My_FTP_Blasting是一款 FTP 爆破测试工具，通过它可以并对目标应
 ===============
 
 使用：
+===============
 
 python ftp.py 192.168.1.102 user.txt pass.txt
+
+
+
+作者
+===============
+
+ID: Evilys
+Mail: evilys@foxmail.com
+Weibo: @Really_余生
+
 
