@@ -5,9 +5,7 @@ My_FTP_Blasting
 
 My_FTP_Blasting是一款 FTP 爆破测试工具，通过它可以并对目标应用进行测试。
 
-
-
-C:\Users\Administrator\Desktop\tp\FTP爆破>ftp.py
+===============
 
     #######################################################
     #                                                     #
@@ -18,7 +16,9 @@ C:\Users\Administrator\Desktop\tp\FTP爆破>ftp.py
     #######################################################
 
 
-C:\Users\Administrator\Desktop\tp\FTP爆破>
+===============
 
+使用：
 
+python ftp.py 192.168.1.102 user.txt pass.txt
 
